@@ -1,0 +1,4 @@
+project_id = "fuzmpfimpnlgxqapdeae"
+
+[functions.analyze-damage]
+verify_jwt = false
